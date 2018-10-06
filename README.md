@@ -1,6 +1,6 @@
 # Machine learning projects in Pharo
 
-This is the list of Machine learning projects written in or related to Pharo. If you know of any other projects that should be on this list - feel free to add them and make a pull request. Or create an issue with a link to the project and I will add it myself. Projects are grouped into categories and sorted by creation date.
+This is the list of machine learning projects written in or related to Pharo. If you know of any other projects that should be on this list - feel free to add them and make a pull request. Or create an issue with a link to the project and I will add it myself. Projects are grouped into categories and sorted by creation date.
 
 <!--
 Template for adding new items
@@ -50,6 +50,6 @@ Template for adding new items
   </tr>
   <tr>
     <td>Description</td>
-    <td>...</td>
+    <td>Simple neurons, perceptrons, logical gates.</td>
   </tr>
 </table>
