@@ -42,7 +42,7 @@ Template for adding new items
     </tr>
   <tr>
     <td>Creation date</td>
-    <td>06 Feb 2017</td>
+    <td>Feb 6, 2017</td>
   </tr>
   <tr>
     <td>URL</td>
@@ -51,5 +51,28 @@ Template for adding new items
   <tr>
     <td>Description</td>
     <td>Simple neurons, perceptrons, logical gates.</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>Title</td>
+    <td>MLNeuralNetworks</td>
+  </tr>
+  <tr>
+    <td>Author</td>
+    <td><a href="https://github.com/olekscode">Oleksandr Zaytsev</a></td>
+    </tr>
+  <tr>
+    <td>Creation date</td>
+    <td>May 11, 2017</td>
+  </tr>
+  <tr>
+    <td>URL</td>
+    <td>https://github.com/olekscode/MLNeuralNetwork</td>
+  </tr>
+  <tr>
+    <td>Description</td>
+    <td>Multilayer neural networks. Classification of MNIST handwritten digits.</td>
   </tr>
 </table>
