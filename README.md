@@ -87,7 +87,7 @@ Template for adding new items
   </tr>
   <tr>
     <td>Author</td>
-    <td>Oleksandr Zaytsev</td>
+    <td><a href="https://github.com/olekscode">Oleksandr Zaytsev</a></td>
     </tr>
   <tr>
     <td>Creation date</td>
