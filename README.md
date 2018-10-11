@@ -76,3 +76,29 @@ Template for adding new items
     <td>Multilayer neural networks. Classification of MNIST handwritten digits.</td>
   </tr>
 </table>
+
+## Data Structures
+
+
+<table>
+  <tr>
+    <td>Title</td>
+    <td>DataFrame</td>
+  </tr>
+  <tr>
+    <td>Author</td>
+    <td>Oleksandr Zaytsev</td>
+    </tr>
+  <tr>
+    <td>Creation date</td>
+    <td>May 10, 2017</td>
+  </tr>
+  <tr>
+    <td>URL</td>
+    <td>https://github.com/PolyMathOrg/DataFrame</td>
+  </tr>
+  <tr>
+    <td>Description</td>
+    <td>Tabular data structures for data analysis and machine learning</td>
+  </tr>
+</table>
