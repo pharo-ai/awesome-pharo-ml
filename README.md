@@ -9,4 +9,8 @@ This is the list of machine learning projects written in or related to Pharo. If
 
 ## Data Structures
 
-* [DataFrame](https://github.com/PolyMathOrg/DataFrame) - Tabular data structures for data analysis and machine learning
+* [DataFrame](https://github.com/PolyMathOrg/DataFrame) - tabular data structures for data analysis and machine learning.
+
+## Applications
+
+* [Generating method names](https://github.com/ObjectProfile/GeneratingMethodNames) - using sequence to sequence recurrent neural networks for neural machine translation of Pharo source code into English. Translating method code into a very short description (1-5 words) which is a method name.
