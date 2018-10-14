@@ -11,6 +11,10 @@ This is the list of machine learning projects written in or related to Pharo. If
 
 * **[DataFrame](https://github.com/PolyMathOrg/DataFrame)** - tabular data structures for data analysis and machine learning.
 
+## Data Visualization
+
+* **[MatplotLibBridge](https://github.com/juliendelplanque/MatplotLibBridge)** - a bridge to provide the ability to Pharo user to use Python's [Matplotlib](https://matplotlib.org/).
+
 ## Interactive Notebooks
 
 * **[JupyterTalk](https://github.com/jmari/JupyterTalk)** - basic Pharo Smalltalk kernel for [Jupyter](http://jupyter.org/).
