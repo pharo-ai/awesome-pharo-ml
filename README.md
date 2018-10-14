@@ -7,6 +7,11 @@ This is the list of machine learning projects written in or related to Pharo. If
 * **[MLNeuralNetworks](https://github.com/olekscode/MLNeuralNetwork)** - multilayer neural networks. Classification of MNIST handwritten digits.
 * **[NeuralNetworks](http://smalltalkhub.com/#!/~abergel/NeuralNetworks)** - simple neurons, perceptrons, logical gates.
 
+## Deep Learning
+
+* **[Keras bindings](https://github.com/ObjectProfile/KerasWrapper)** - allows to use [Keras](https://keras.io/) functions within Pharo
+* **[TensorFlow bindings](https://github.com/PolyMathOrg/libtensorflow-pharo-bindings)** - allows to use [TensorFlow](https://www.tensorflow.org/) in Pharo
+
 ## Data Structures
 
 * **[DataFrame](https://github.com/PolyMathOrg/DataFrame)** - tabular data structures for data analysis and machine learning.
@@ -18,11 +23,6 @@ This is the list of machine learning projects written in or related to Pharo. If
 ## Interactive Notebooks
 
 * **[JupyterTalk](https://github.com/jmari/JupyterTalk)** - basic Pharo Smalltalk kernel for [Jupyter](http://jupyter.org/).
-
-## Deep Learning
-
-* **[TensorFlow bindings](https://github.com/PolyMathOrg/libtensorflow-pharo-bindings)** - allows to use [TensorFlow](https://www.tensorflow.org/) in Pharo
-* **[Keras bindings](https://github.com/ObjectProfile/KerasWrapper)** - allows to use [Keras](https://keras.io/) functions within Pharo
 
 ## Applications
 
