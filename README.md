@@ -4,6 +4,7 @@ This is the list of machine learning projects written in or related to Pharo as 
 
 ## Contents
 
+* [Linear Models](#linear-models)
 * [Neural Networks](#neural-networks)
 * [Deep Learning](#deep-learning)
 * [Data Structures](#data-structures)
@@ -11,8 +12,12 @@ This is the list of machine learning projects written in or related to Pharo as 
 * [Interactive Notebooks](#interactive-notebooks)
 * [Data Collection](#data-collection)
 * [Applications](#applications)
-* [Books & Booklets]()
+* [Books & Booklets](#books--booklets)
 * [Papers](#papers)
+
+## Linear Models
+
+* **[MLLinearModels](https://github.com/AndriySkol/MLLinearModels)** - provides functionality to train and use linear regression models, such as Ordinary Least Squares, Ridge, Lasso, Elastic Net
 
 ## Neural Networks
 
