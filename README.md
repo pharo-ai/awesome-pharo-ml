@@ -29,7 +29,7 @@ This is the list of machine learning projects written in or related to Pharo as 
 
 * **[AgileArtificialIntelligence](http://smalltalkhub.com/#!/~abergel/AgileArtificialIntelligence)** - object-oriented implementation of neural networks, equipped with toy examples (logical gates, games)
 * **[MLNeuralNetworks](https://github.com/olekscode/MLNeuralNetwork)** - multilayer neural networks. Classification of MNIST handwritten digits
-* **[NeuralNetworks](http://smalltalkhub.com/#!/~abergel/NeuralNetworks)** - simple neurons, perceptrons, logical gates.
+* **[NeuralNetworks](http://smalltalkhub.com/#!/~abergel/NeuralNetworks)** - simple neurons, perceptrons, logical gates
 
 ## Deep Learning
 
@@ -43,7 +43,7 @@ This is the list of machine learning projects written in or related to Pharo as 
 ## Data Visualization
 
 * **[MatplotLibBridge](https://github.com/juliendelplanque/MatplotLibBridge)** - a bridge to provide the ability to Pharo user to use Python's [Matplotlib](https://matplotlib.org/)
-* **[Roassal](https://github.com/ObjectProfile/Roassal2)** - visualization engine for the Pharo and VisualWorks. Provides powerful tools for charting, plotting, and other data visualization.
+* **[Roassal](https://github.com/ObjectProfile/Roassal2)** - visualization engine for the Pharo and VisualWorks. Provides powerful tools for charting, plotting, and other data visualization
 
 ## Interactive Notebooks
 
