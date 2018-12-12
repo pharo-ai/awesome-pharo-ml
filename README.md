@@ -5,7 +5,6 @@ This is the list of machine learning projects written in or related to Pharo as 
 ## Contents
 
 * [Mathematics](#mathematics)
-* [Statistics & Probability](#statistics--probability)
 * [Linear Models](#linear-models)
 * [Neural Networks](#neural-networks)
 * [Deep Learning](#deep-learning)
@@ -24,6 +23,7 @@ This is the list of machine learning projects written in or related to Pharo as 
 ## Linear Models
 
 * **[MLLinearModels](https://github.com/AndriySkol/MLLinearModels)** - provides functionality to train and use linear regression models, such as Ordinary Least Squares, Ridge, Lasso, Elastic Net
+* **[PMLinearRegression in PolyMath](https://github.com/PolyMathOrg/PolyMath)** - implementation of linear regression in PolyMath library
 
 ## Neural Networks
 
