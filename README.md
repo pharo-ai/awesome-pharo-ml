@@ -1,11 +1,23 @@
 # Awesome Machine Learning in Pharo
 
-This is the list of machine learning projects written in or related to Pharo. If you know of any other projects that should be on this list - feel free to add them and make a pull request. Or create an issue with a link to the project and we will add it ourselves. Projects are grouped into categories and sorted by aphabet.
+This is the list of machine learning projects written in or related to Pharo as well as books, booklets, papers, or tutorials on this topic. If you want to add an entry to this list - feel free to make a pull request or create an issue with a link to the project and we will add it ourselves. Entries are grouped into categories and sorted by aphabet.
+
+## Contents
+
+* [Neural Networks](#neural-networks)
+* [Deep Learning](#deep-learning)
+* [Data Structures](#data-structures)
+* [Data Visualization](#data-visualization)
+* [Interactive Notebooks](#interactive-notebooks)
+* [Data Collection](#data-collection)
+* [Applications](#applications)
+* [Books & Booklets]()
+* [Papers](#papers)
 
 ## Neural Networks
 
 * **[AgileArtificialIntelligence](http://smalltalkhub.com/#!/~abergel/AgileArtificialIntelligence)** - object-oriented implementation of neural networks, equipped with toy examples (logical gates, games)
-* **[MLNeuralNetworks](https://github.com/olekscode/MLNeuralNetwork)** - multilayer neural networks. Classification of MNIST handwritten digits.
+* **[MLNeuralNetworks](https://github.com/olekscode/MLNeuralNetwork)** - multilayer neural networks. Classification of MNIST handwritten digits
 * **[NeuralNetworks](http://smalltalkhub.com/#!/~abergel/NeuralNetworks)** - simple neurons, perceptrons, logical gates.
 
 ## Deep Learning
@@ -15,15 +27,15 @@ This is the list of machine learning projects written in or related to Pharo. If
 
 ## Data Structures
 
-* **[DataFrame](https://github.com/PolyMathOrg/DataFrame)** - tabular data structures for data analysis and machine learning.
+* **[DataFrame](https://github.com/PolyMathOrg/DataFrame)** - tabular data structures for data analysis and machine learning
 
 ## Data Visualization
 
-* **[MatplotLibBridge](https://github.com/juliendelplanque/MatplotLibBridge)** - a bridge to provide the ability to Pharo user to use Python's [Matplotlib](https://matplotlib.org/).
+* **[MatplotLibBridge](https://github.com/juliendelplanque/MatplotLibBridge)** - a bridge to provide the ability to Pharo user to use Python's [Matplotlib](https://matplotlib.org/)
 
 ## Interactive Notebooks
 
-* **[JupyterTalk](https://github.com/jmari/JupyterTalk)** - basic Pharo Smalltalk kernel for [Jupyter](http://jupyter.org/).
+* **[JupyterTalk](https://github.com/jmari/JupyterTalk)** - basic Pharo Smalltalk kernel for [Jupyter](http://jupyter.org/)
 
 ## Data Collection
 
@@ -34,3 +46,13 @@ This is the list of machine learning projects written in or related to Pharo. If
 
 * **[ELIZA-Pharo](https://github.com/brackendev/ELIZA-Pharo)** - Pharo Smalltalk implementation of [ELIZA](https://en.wikipedia.org/wiki/ELIZA), an early natural language processing computer program created from 1964 to 1966 at the [MIT Artificial Intelligence Laboratory](https://www.csail.mit.edu/) by [Joseph Weizenbaum](https://en.wikipedia.org/wiki/Joseph_Weizenbaum).
 * **[Generating method names](https://github.com/ObjectProfile/GeneratingMethodNames)** - using sequence to sequence recurrent neural networks for neural machine translation of Pharo source code into English. Translating method code into a very short description (1-5 words) which is a method name.
+
+## Books & Booklets
+
+* **[Agile Artificial Intelligence](https://agileartificialintelligence.github.io/)** - a book that covers classical algorithms commonly assimilated as artificial intelligence techniques
+* **[DataFrame Booklet](https://github.com/SquareBracketAssociates/Booklet-DataFrame)** - a small booklet about Pharo DataFrame provided by [SquareBracketAssociates](https://github.com/SquareBracketAssociates)
+* **[Object-oriented Implementation of Artificial Neural Networks in Pharo](https://github.com/olekscode/MLNeuralNetwork-Doc)** - describes and documents the [MLNeuralNetworks](https://github.com/olekscode/MLNeuralNetwork) library
+
+## Papers
+
+* **[Towards Exploratory Data Analysis for Pharo](https://dl.acm.org/citation.cfm?id=3139918)** - a paper about DataFrame
