@@ -43,6 +43,7 @@ This is the list of machine learning projects written in or related to Pharo as 
 ## Data Visualization
 
 * **[MatplotLibBridge](https://github.com/juliendelplanque/MatplotLibBridge)** - a bridge to provide the ability to Pharo user to use Python's [Matplotlib](https://matplotlib.org/)
+* **[Roassal](https://github.com/ObjectProfile/Roassal2)** - visualization engine for the Pharo and VisualWorks. Provides powerful tools for charting, plotting, and other data visualization.
 
 ## Interactive Notebooks
 
@@ -61,6 +62,7 @@ This is the list of machine learning projects written in or related to Pharo as 
 ## Books & Booklets
 
 * **[Agile Artificial Intelligence](https://agileartificialintelligence.github.io/)** - a book that covers classical algorithms commonly assimilated as artificial intelligence techniques
+* **[Agile Visualization](http://agilevisualization.com/)** - a book that covers agile visualization with [Roassal](https://github.com/ObjectProfile/Roassal2)
 * **[DataFrame Booklet](https://github.com/SquareBracketAssociates/Booklet-DataFrame)** - a small booklet about Pharo DataFrame provided by [SquareBracketAssociates](https://github.com/SquareBracketAssociates)
 * **[Numerical Methods with Pharo](https://books.pharo.org/numerical-methods/)** - a book that documents the [PolyMath](https://github.com/PolyMathOrg/PolyMath) project and covers many topics related to data science: function interpolation, iteration, zeroes, linear algebra series, statistics, estimation, minimisation, and data mining
 * **[Object-oriented Implementation of Artificial Neural Networks in Pharo](https://github.com/olekscode/MLNeuralNetwork-Doc)** - describes and documents the [MLNeuralNetworks](https://github.com/olekscode/MLNeuralNetwork) library
