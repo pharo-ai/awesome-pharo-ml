@@ -1,6 +1,6 @@
 # Awesome Machine Learning in Pharo
 
-This is the list of machine learning projects written in or related to Pharo. If you know of any other projects that should be on this list - feel free to add them and make a pull request. Or create an issue with a link to the project and I will add it myself. Projects are grouped into categories and sorted by aphabet.
+This is the list of machine learning projects written in or related to Pharo. If you know of any other projects that should be on this list - feel free to add them and make a pull request. Or create an issue with a link to the project and we will add it ourselves. Projects are grouped into categories and sorted by aphabet.
 
 ## Neural Networks
 
