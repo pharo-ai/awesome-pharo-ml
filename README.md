@@ -4,6 +4,8 @@ This is the list of machine learning projects written in or related to Pharo as 
 
 ## Contents
 
+* [Mathematics](#mathematics)
+* [Statistics & Probability](#statistics--probability)
 * [Linear Models](#linear-models)
 * [Neural Networks](#neural-networks)
 * [Deep Learning](#deep-learning)
@@ -14,6 +16,10 @@ This is the list of machine learning projects written in or related to Pharo as 
 * [Applications](#applications)
 * [Books & Booklets](#books--booklets)
 * [Papers](#papers)
+
+## Mathematics
+
+* **[PolyMath](https://github.com/PolyMathOrg/PolyMath)** - Smalltalk library fir numeric computations similar to NumPy, SciPy or SciRuby. Includes data structures and algorithms for linear algebra (PMVector, PMMatrix), statistics, differential equations, numeric integration, optimization, data mining, linear regression, genetic algorithms
 
 ## Linear Models
 
@@ -50,13 +56,13 @@ This is the list of machine learning projects written in or related to Pharo as 
 ## Applications
 
 * **[ELIZA-Pharo](https://github.com/brackendev/ELIZA-Pharo)** - Pharo Smalltalk implementation of [ELIZA](https://en.wikipedia.org/wiki/ELIZA), an early natural language processing computer program created from 1964 to 1966 at the [MIT Artificial Intelligence Laboratory](https://www.csail.mit.edu/) by [Joseph Weizenbaum](https://en.wikipedia.org/wiki/Joseph_Weizenbaum).
-* **[Generating method names](https://github.com/ObjectProfile/GeneratingMethodNames)** - using sequence to sequence recurrent neural networks for neural machine translation of Pharo source code into English. Translating method code into a very short description (1-5 words) which is a method name.
+* **[Generating method names](https://github.com/ObjectProfile/GeneratingMethodNames)** - using sequence to sequence recurrent neural networks for neural machine translation of Pharo source code into English. Translating method code into a very short description (1-5 words) which is a method name
 
 ## Books & Booklets
 
 * **[Agile Artificial Intelligence](https://agileartificialintelligence.github.io/)** - a book that covers classical algorithms commonly assimilated as artificial intelligence techniques
 * **[DataFrame Booklet](https://github.com/SquareBracketAssociates/Booklet-DataFrame)** - a small booklet about Pharo DataFrame provided by [SquareBracketAssociates](https://github.com/SquareBracketAssociates)
-* **[Numerical Methods with Pharo](https://books.pharo.org/numerical-methods/)** - a book that documents the [PolyMath](https://github.com/PolyMathOrg/PolyMath) project and covers many topics related to data science: function interpolation, iteration, zeroes, linear algebra series, statistics, estimation, minimisation, and data mining.
+* **[Numerical Methods with Pharo](https://books.pharo.org/numerical-methods/)** - a book that documents the [PolyMath](https://github.com/PolyMathOrg/PolyMath) project and covers many topics related to data science: function interpolation, iteration, zeroes, linear algebra series, statistics, estimation, minimisation, and data mining
 * **[Object-oriented Implementation of Artificial Neural Networks in Pharo](https://github.com/olekscode/MLNeuralNetwork-Doc)** - describes and documents the [MLNeuralNetworks](https://github.com/olekscode/MLNeuralNetwork) library
 
 ## Papers
