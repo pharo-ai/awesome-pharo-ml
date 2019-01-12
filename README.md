@@ -8,6 +8,7 @@ This is the list of machine learning projects written in or related to Pharo as 
 * [Linear Models](#linear-models)
 * [Neural Networks](#neural-networks)
 * [Deep Learning](#deep-learning)
+* [Natural Language Processing](#natural-language-processing)
 * [Data Structures](#data-structures)
 * [Data Visualization](#data-visualization)
 * [Interactive Notebooks](#interactive-notebooks)
@@ -35,6 +36,11 @@ This is the list of machine learning projects written in or related to Pharo as 
 
 * **[Keras bindings](https://github.com/ObjectProfile/KerasWrapper)** - allows to use [Keras](https://keras.io/) functions within Pharo
 * **[TensorFlow bindings](https://github.com/PolyMathOrg/libtensorflow-pharo-bindings)** - allows to use [TensorFlow](https://www.tensorflow.org/) in Pharo
+
+## Natural Language Processing
+
+* **[NgramModel](https://github.com/olekscode/NgramModel)** - framework for training n-gram language models
+* **[nlp_smalltalk](https://github.com/mark-watson/nlp_smalltalk)** - natural language processing library. Implements part of speech tagging, categorization, named entity recognition, sentence segmentation, and summarization
 
 ## Data Structures
 
@@ -65,7 +71,7 @@ This is the list of machine learning projects written in or related to Pharo as 
 * **[Agile Artificial Intelligence](https://agileartificialintelligence.github.io/)** - a book that covers classical algorithms commonly assimilated as artificial intelligence techniques
 * **[Agile Visualization](http://agilevisualization.com/)** - a book that covers agile visualization with [Roassal](https://github.com/ObjectProfile/Roassal2)
 * **[DataFrame Booklet](https://github.com/SquareBracketAssociates/Booklet-DataFrame)** - a small booklet about Pharo DataFrame provided by [SquareBracketAssociates](https://github.com/SquareBracketAssociates)
-* **[Grafoscopio User Manual](https://zenodo.org/record/1974261).
+* **[Grafoscopio User Manual](https://zenodo.org/record/1974261)**.
 * **[Numerical Methods with Pharo](https://books.pharo.org/numerical-methods/)** - a book that documents the [PolyMath](https://github.com/PolyMathOrg/PolyMath) project and covers many topics related to data science: function interpolation, iteration, zeroes, linear algebra series, statistics, estimation, minimisation, and data mining
 * **[Object-oriented Implementation of Artificial Neural Networks in Pharo](https://github.com/olekscode/MLNeuralNetwork-Doc)** - describes and documents the [MLNeuralNetworks](https://github.com/olekscode/MLNeuralNetwork) library
 
