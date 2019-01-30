@@ -20,6 +20,7 @@ This is the list of machine learning projects written in or related to Pharo as 
 ## Mathematics
 
 * **[PolyMath](https://github.com/PolyMathOrg/PolyMath)** - Smalltalk library fir numeric computations similar to NumPy, SciPy or SciRuby. Includes data structures and algorithms for linear algebra (PMVector, PMMatrix), statistics, differential equations, numeric integration, optimization, data mining, linear regression, genetic algorithms
+* **[Domains](https://github.com/PolyMathOrg/Domains)** - Ongoing port of a computational algebra system in Smalltalk. 
 
 ## Linear Models
 
