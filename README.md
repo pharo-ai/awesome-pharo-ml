@@ -8,6 +8,7 @@ This is the list of machine learning projects written in or related to Pharo as 
 * [Linear Models](#linear-models)
 * [Neural Networks](#neural-networks)
 * [Deep Learning](#deep-learning)
+* [Generative Models](#generative-models)
 * [Natural Language Processing](#natural-language-processing)
 * [Data Structures](#data-structures)
 * [Data Visualization](#data-visualization)
@@ -38,10 +39,16 @@ This is the list of machine learning projects written in or related to Pharo as 
 * **[Keras bindings](https://github.com/ObjectProfile/KerasWrapper)** - allows to use [Keras](https://keras.io/) functions within Pharo
 * **[TensorFlow bindings](https://github.com/PolyMathOrg/libtensorflow-pharo-bindings)** - allows to use [TensorFlow](https://www.tensorflow.org/) in Pharo
 
+## Generative Models
+
+* **[NaiveBayesClassifier](https://github.com/olekscode/NaiveBayesClassifier)** - a multinomial Naive Bayes classifier that can be used for spam detection
+
 ## Natural Language Processing
 
+* **[Ngram](https://github.com/olekscode/Ngram)** - Ngram class and String extensions that provide n-gram functionality for Pharo (splitting text into unigrams, bigrams, trigrams, etc)
 * **[NgramModel](https://github.com/olekscode/NgramModel)** - framework for training n-gram language models
 * **[nlp_smalltalk](https://github.com/mark-watson/nlp_smalltalk)** - natural language processing library. Implements part of speech tagging, categorization, named entity recognition, sentence segmentation, and summarization
+* **[Pharo-NLtoolkit](https://github.com/nikhilpinnaparaju/Pharo-NLtoolkit)** - n-gams and TF-IDF implementations by Nikhil Pinnaparaju
 
 ## Data Structures
 
