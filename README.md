@@ -39,6 +39,10 @@ This is the list of machine learning projects written in or related to Pharo as 
 * **[Keras bindings](https://github.com/ObjectProfile/KerasWrapper)** - allows to use [Keras](https://keras.io/) functions within Pharo
 * **[TensorFlow bindings](https://github.com/PolyMathOrg/libtensorflow-pharo-bindings)** - allows to use [TensorFlow](https://www.tensorflow.org/) in Pharo
 
+## Learning Classifier System
+
+* **[LCSTalk](http://www.squeaksource.com/LCSTalk.html)** is a small machine learning framework based on Learning Classifier Systems. 
+
 ## Generative Models
 
 * **[NaiveBayesClassifier](https://github.com/olekscode/NaiveBayesClassifier)** - a multinomial Naive Bayes classifier that can be used for spam detection
@@ -62,7 +66,8 @@ This is the list of machine learning projects written in or related to Pharo as 
 ## Interactive Notebooks
 
 * **[JupyterTalk](https://github.com/jmari/JupyterTalk)** - basic Pharo Smalltalk kernel for [Jupyter](http://jupyter.org/)
-* **[Grafoscopio](https://mutabit.com/grafoscopio/index.en.html)** - Pharo based interactive outliner for reproducible research & publishing and agile visualization and data storytelling. 
+* **[Grafoscopio](https://mutabit.com/grafoscopio/index.en.html)** - Pharo based interactive outliner for reproducible research & publishing and agile visualization and data storytelling.
+* The Pharo edition of **[ActivePapers](https://github.com/activepapers/activepapers-pharo)** focuses on the documentation and user interface aspects of communicating computational science.
 
 ## Data Collection
 
