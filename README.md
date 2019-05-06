@@ -68,6 +68,7 @@ This is the list of machine learning projects written in or related to Pharo as 
 * **[JupyterTalk](https://github.com/jmari/JupyterTalk)** - basic Pharo Smalltalk kernel for [Jupyter](http://jupyter.org/)
 * **[Grafoscopio](https://mutabit.com/grafoscopio/index.en.html)** - Pharo based interactive outliner for reproducible research & publishing and agile visualization and data storytelling.
 * The Pharo edition of **[ActivePapers](https://github.com/activepapers/activepapers-pharo)** focuses on the documentation and user interface aspects of communicating computational science.
+* **[Leibniz-pharo](https://github.com/khinsen/leibniz-pharo)** is the Pharo version of the digital scientific notation **[Leibniz](https://github.com/khinsen/leibniz)**.
 
 ## Data Collection
 
