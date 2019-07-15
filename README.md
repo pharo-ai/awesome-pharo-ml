@@ -32,6 +32,7 @@ This is the list of machine learning projects written in or related to Pharo as 
 
 * **[AgileArtificialIntelligence](http://smalltalkhub.com/#!/~abergel/AgileArtificialIntelligence)** - object-oriented implementation of neural networks, equipped with toy examples (logical gates, games)
 * **[MLNeuralNetworks](https://github.com/olekscode/MLNeuralNetwork)** - multilayer neural networks. Classification of MNIST handwritten digits
+* **[NeuralNetwork](https://github.com/vanor/NeuralNetwork)** - multilayer neural network with separate classes for Layers and Neurons
 * **[NeuralNetworks](http://smalltalkhub.com/#!/~abergel/NeuralNetworks)** - simple neurons, perceptrons, logical gates
 
 ## Deep Learning
