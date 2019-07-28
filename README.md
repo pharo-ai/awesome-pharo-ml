@@ -54,6 +54,7 @@ This is the list of machine learning projects written in or related to Pharo as 
 * **[NgramModel](https://github.com/olekscode/NgramModel)** - framework for training n-gram language models
 * **[nlp_smalltalk](https://github.com/mark-watson/nlp_smalltalk)** - natural language processing library. Implements part of speech tagging, categorization, named entity recognition, sentence segmentation, and summarization
 * **[Pharo-NLtoolkit](https://github.com/nikhilpinnaparaju/Pharo-NLtoolkit)** - n-gams and TF-IDF implementations by Nikhil Pinnaparaju
+* **[Polyglot](https://github.com/PolyMathOrg/Polyglot)** - a natural language processing library implemented in Pharo by Nikhil Pinnaparaju during Google Summer of Code.
 
 ## Data Structures
 
