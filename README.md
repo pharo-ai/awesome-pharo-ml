@@ -77,8 +77,8 @@ This is the list of machine learning projects written in or related to Pharo as 
 * **[CSV](https://github.com/svenvc/NeoCSV)** - NeoCSV is an elegant and efficient standalone Smalltalk framework to read and write CSV converting to or from Smalltalk objects.
 * **[NeoJSON](https://github.com/svenvc/NeoJSON)** - Framework to handle JSON in Pharo.
 * **[Soup](https://github.com/Ducasse/Soup)** - A library for web scrapping based on HTML and XML parsers
-* **[Territorial](https://github.com/hernanmd/Territorial)** - Smalltalk package for Geographical Information Retrieval (GIR)
 * **[Soup-for-Pharo](https://github.com/seandenigris/Soup-for-Pharo)** - a binding for Python's [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) - tool for web scrapping based on HTML and XML parsers
+* **[Territorial](https://github.com/hernanmd/Territorial)** - Smalltalk package for Geographical Information Retrieval (GIR)
 
 ## Applications
 
