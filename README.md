@@ -10,6 +10,7 @@ This is the list of machine learning projects written in or related to Pharo as 
 * [Deep Learning](#deep-learning)
 * [Generative Models](#generative-models)
 * [Natural Language Processing](#natural-language-processing)
+* [Data Mining](#data-mining)
 * [Data Structures](#data-structures)
 * [Data Visualization](#data-visualization)
 * [Interactive Notebooks](#interactive-notebooks)
@@ -55,6 +56,10 @@ This is the list of machine learning projects written in or related to Pharo as 
 * **[nlp_smalltalk](https://github.com/mark-watson/nlp_smalltalk)** - natural language processing library. Implements part of speech tagging, categorization, named entity recognition, sentence segmentation, and summarization
 * **[Pharo-NLtoolkit](https://github.com/nikhilpinnaparaju/Pharo-NLtoolkit)** - n-gams and TF-IDF implementations by Nikhil Pinnaparaju
 * **[Polyglot](https://github.com/PolyMathOrg/Polyglot)** - a natural language processing library implemented in Pharo by Nikhil Pinnaparaju during Google Summer of Code.
+
+## Data Mining
+
+* **[APriori](https://github.com/olekscode/APriori)** - implementation of [A-Priori algirithm](https://en.wikipedia.org/wiki/Apriori_algorithm) for finding frequent itemsets and [learning the association rules](https://en.wikipedia.org/wiki/Association_rule_learning).
 
 ## Data Structures
 
