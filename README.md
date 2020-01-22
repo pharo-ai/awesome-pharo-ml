@@ -41,6 +41,10 @@ This is the list of machine learning projects written in or related to Pharo as 
 * **[Keras bindings](https://github.com/ObjectProfile/KerasWrapper)** - allows to use [Keras](https://keras.io/) functions within Pharo
 * **[TensorFlow bindings](https://github.com/PolyMathOrg/libtensorflow-pharo-bindings)** - allows to use [TensorFlow](https://www.tensorflow.org/) in Pharo
 
+## Neuroevolution
+
+* **[NEAT (NeuroEvolution of Augmenting Topologies)](https://github.com/bergel/NEAT)** - a genetic algorithm for evolving artificial neural networks. NEAT is probably the most popular algorithm for neuroevolution.
+
 ## Learning Classifier System
 
 * **[LCSTalk](http://www.squeaksource.com/LCSTalk.html)** is a small machine learning framework based on Learning Classifier Systems. 
