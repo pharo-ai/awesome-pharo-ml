@@ -8,6 +8,7 @@ This is the list of machine learning projects written in or related to Pharo as 
 * [Linear Models](#linear-models)
 * [Neural Networks](#neural-networks)
 * [Deep Learning](#deep-learning)
+* [Neuroevolution](#neuroevolution)
 * [Generative Models](#generative-models)
 * [Natural Language Processing](#natural-language-processing)
 * [Data Mining](#data-mining)
