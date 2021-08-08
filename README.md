@@ -109,3 +109,4 @@ This is the list of machine learning projects written in or related to Pharo as 
 
 * **[Towards Exploratory Data Analysis for Pharo](https://dl.acm.org/citation.cfm?id=3139918)** - a paper about DataFrame.
 * **[Grafoscopio: A moldable tool for literate computing and reproducible research](http://joss.theoj.org/papers/c92ed13fa746bc681081f9b31678841b)**.
+* **[[Building a scientific workbench in Pharo](https://hal.archives-ouvertes.fr/hal-02533110/)**
