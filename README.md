@@ -4,6 +4,7 @@ This is the list of machine learning projects written in or related to Pharo as 
 
 ## Contents
 
+* [Large Language Models (LLM)](#large-language-models)
 * [Mathematics](#mathematics)
 * [Linear Models](#linear-models)
 * [Neural Networks](#neural-networks)
@@ -19,6 +20,11 @@ This is the list of machine learning projects written in or related to Pharo as 
 * [Applications](#applications)
 * [Books & Booklets](#books--booklets)
 * [Papers](#papers)
+
+## Large Language Models
+
+* **[ChatPharo](https://github.com/pharo-llm/chatpharo)** - plugin to communicate with language models directly from Pharo.
+* **[pharo-infer](https://github.com/pharo-llm/pharo-infer)** - inference engine for Pharo Smalltalk that brings Large Language Models (LLMs) directly into the Pharo environment. It supports local inference, multiple model formats, streaming text generation, embeddings, and an OpenAI-compatible chat API, with backends such as native Pharo, Ollama, and llama.cpp.
 
 ## Mathematics
 
